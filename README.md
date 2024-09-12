@@ -1,4 +1,4 @@
-# Face Identification: Course Project - CSL2050
+# Face Identification
 
 ## Problem Statement
 
@@ -58,11 +58,3 @@ The dataset is split into training and testing sets, and the models are trained 
 2. Install the required dependencies (e.g., NumPy, Pandas, Scikit-learn, PyTorch, OpenCV, Pillow).
 3. Download the LFW dataset and place it in the appropriate directory.
 4. Run the provided Jupyter Notebook or Python script to preprocess the data, extract features, perform dimensionality reduction, train the models, and evaluate their performance.
-
-## Team Members
-
-1. Irwindeep Singh (B22AI022)
-2. Ramninder Singh (B22AI032)
-3. Sarthak Malviya (B22AI034)
-4. Vikrant Singh (B22AI043)
-5. Paras Govind Kalyanpad (B22CS037)
